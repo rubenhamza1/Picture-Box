@@ -1,0 +1,10 @@
+C:\Users\Ucenik\Desktop\PictureBox\PictureBox\bin\Debug\PictureBox.exe.config
+C:\Users\Ucenik\Desktop\PictureBox\PictureBox\bin\Debug\PictureBox.exe
+C:\Users\Ucenik\Desktop\PictureBox\PictureBox\bin\Debug\PictureBox.pdb
+C:\Users\Ucenik\Desktop\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Desktop\PictureBox\PictureBox\obj\Debug\PictureBox.Form1.resources
+C:\Users\Ucenik\Desktop\PictureBox\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+C:\Users\Ucenik\Desktop\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\PictureBox\PictureBox\obj\Debug\PictureBox.exe
+C:\Users\Ucenik\Desktop\PictureBox\PictureBox\obj\Debug\PictureBox.pdb
